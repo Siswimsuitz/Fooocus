@@ -44,7 +44,11 @@
         "speciosaRealistica_v12.safetensors": "https://huggingface.co/modelzpalace/speciosaRealistica_v12/resolve/main/speciosaRealistica_v12.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "Real_Beauty.safetensors": "https://huggingface.co/modelzpalace/Real_Beauty/resolve/main/Real_Beauty.safetensors",
+        "add-detail-xl.safetensors": "https://huggingface.co/modelzpalace/add-detail-xl/resolve/main/add-detail-xl.safetensors",
+        "AmateurStyle_v1_PONY_REALISM.safetensors": "https://huggingface.co/modelzpalace/AmateurStyle_v1_PONY_REALISM/resolve/main/AmateurStyle_v1_PONY_REALISM.safetensors"
+    },
     "previous_default_models": [
     ]
 }
