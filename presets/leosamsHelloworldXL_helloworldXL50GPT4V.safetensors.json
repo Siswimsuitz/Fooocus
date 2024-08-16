@@ -11,12 +11,12 @@
         ],
         [
             true,
-            "None",
+            "Asian%20girls%20faceV2.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "add-detail-xl.safetensors",
             1.0
         ],
         [
@@ -47,7 +47,11 @@
         "leosamsHelloworldXL_helloworldXL50GPT4V.safetensors": "https://huggingface.co/modelzpalace/leosamsHelloworldXL/resolve/main/leosamsHelloworldXL_helloworldXL50GPT4V.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+       "Asian%20girls%20faceV2.safetensors": "https://huggingface.co/modelzpalace/AsiangirlsfaceV2/resolve/main/Asian%20girls%20faceV2.safetensors",
+        "add-detail-xl.safetensors": "https://huggingface.co/modelzpalace/add-detail-xl/resolve/main/add-detail-xl.safetensors",
+        "InstantPhotoX3.safetensors": "https://huggingface.co/modelzpalace/InstantPhotoX3/resolve/main/InstantPhotoX3.safetensors"
+    },
     "vae_downloads": {
     }
 }
