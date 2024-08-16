@@ -49,7 +49,9 @@
     "lora_downloads": {
        "Asian%20girls%20faceV2.safetensors": "https://huggingface.co/modelzpalace/AsiangirlsfaceV2/resolve/main/Asian%20girls%20faceV2.safetensors",
         "add-detail-xl.safetensors": "https://huggingface.co/modelzpalace/add-detail-xl/resolve/main/add-detail-xl.safetensors",
-        "InstantPhotoX3.safetensors": "https://huggingface.co/modelzpalace/InstantPhotoX3/resolve/main/InstantPhotoX3.safetensors"
+        "InstantPhotoX3.safetensors": "https://huggingface.co/modelzpalace/InstantPhotoX3/resolve/main/InstantPhotoX3.safetensors",
+        "TWbabeXL01.safetensors": "https://huggingface.co/modelzpalace/TWbabeXL01/resolve/main/TWbabeXL01.safetensors",
+        "flat_chested_v_4_1821-4.safetensors": "https://huggingface.co/modelzpalace/flat_chested_v_4_1821-4/resolve/main/flat_chested_v_4_1821-4.safetensors"
     },
     "vae_downloads": {
     }
