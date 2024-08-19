@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "cyberrealisticPony_v62.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -29,30 +29,23 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 4.0,
+    "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_sampler": "dpmpp_2m",
     "default_scheduler": "karras",
-    "default_performance": "Extreme Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_performance": "Speed",
+    "default_prompt": "score_9, score_8_up, score_7_up, photo, photorealistic",
+    "default_prompt_negative": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality",
     "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
+        "Fooocus V2"
     ],
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "cyberrealisticPony_v62.safetensors": "https://huggingface.co/modelzpalace/cyberrealisticPony_v62/resolve/main/cyberrealisticPony_v62.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
     "previous_default_models": [
-        "juggernautXL_version8Rundiffusion.safetensors",
-        "juggernautXL_version7Rundiffusion.safetensors",
-        "juggernautXL_v7Rundiffusion.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors",
-        "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
