@@ -42,7 +42,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/modelzpalace/juggernautXL_ragnarok/resolve/main/juggernautXL_ragnarokBy.safetensors"
+        "juggernautXL_ragnarokBy.safetensors": "https://huggingface.co/modelzpalace/juggernautXL_ragnarok/resolve/main/juggernautXL_ragnarokBy.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
