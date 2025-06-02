@@ -35,7 +35,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt_negative": "bad eyes, cgi, airbrushed, plastic, deformed, watermark,3D, cartoon, anime, manga",
     "default_styles": [
         "Fooocus V2"
     ],
