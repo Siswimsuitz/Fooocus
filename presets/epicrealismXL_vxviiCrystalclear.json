@@ -1,5 +1,5 @@
 {
-    "default_model": "playground-v2.5-1024px-aesthetic.fp16.safetensors",
+    "default_model": "epicrealismXL_vxviiCrystalclear.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -31,11 +31,11 @@
     ],
     "default_cfg_scale": 2.0,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m",
+    "default_sampler": "dpmpp_2m_sde",
     "default_scheduler": "edm_playground_v2.5",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt": "masterpiece, best quality,",
+    "default_prompt_negative": "cartoon, cgi, render, illustration, painting, drawing, horrors, painted, watermark, unrealistic, 3d, cgi, ugly, old, plastic, monotone, box, stage, indoors, clown, (circus:-0.2), dry skin, very dim light, too bright, unnatural, narrow spectrum, wall, bright red lipstick, ordinary, boring, poorly-designed fashion, poorly composed, badly drawn, old fashioned, floral, portrait, fat",
     "default_styles": [
         "Fooocus V2"
     ],
@@ -43,7 +43,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "playground-v2.5-1024px-aesthetic.fp16.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/playground-v2.5-1024px-aesthetic.fp16.safetensors"
+        "epicrealismXL_vxviiCrystalclear.safetensors": "https://huggingface.co/modelzpalace/epicrealismXL_vxviiCrystalclear/resolve/main/epicrealismXL_vxviiCrystalclear.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
