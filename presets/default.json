@@ -45,7 +45,13 @@
         "juggernautXL_ragnarokBy.safetensors": "https://huggingface.co/modelzpalace/juggernautXL_ragnarok/resolve/main/juggernautXL_ragnarokBy.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
+    "lora_downloads": {"https://huggingface.co/modelzpalace/dmd2_sdxl_4step_lora_fp16/resolve/main/dmd2_sdxl_4step_lora_fp16.safetensors",
+        "https://huggingface.co/modelzpalace/1506442_sydney-sweeney-biglust16/resolve/main/1506442_sydney-sweeney-biglust16.safetensors",
+        "https://huggingface.co/modelzpalace/loras2/resolve/main/kyliejenner-000013.safetensors",
+        "https://huggingface.co/modelzpalace/loras2/resolve/main/Emiru%20SDXL.safetensors",
+        "https://huggingface.co/modelzpalace/loras2/resolve/main/ashkash.safetensors",
+        "https://huggingface.co/modelzpalace/loras2/resolve/main/fanfan.safetensors",
+        "https://huggingface.co/modelzpalace/loras2/resolve/main/extraemily.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
